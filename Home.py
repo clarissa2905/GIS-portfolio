@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 # import leafmap.foliumap as leafmap
 
-st.set_page_config(page_icon="📍", layout="centered")
+st.set_page_config(page_title="Home", page_icon="📍", layout="centered")
 
 st.markdown(f'''
     <style>
